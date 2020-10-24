@@ -1,0 +1,6 @@
+hey i mam ritika.. i like to w=eat food
+ls -a--> to show thw hidd files
+git init is iudes to intialize git in that folder
+there is a statgaing area where u see what files u want to for next step and what are npot
+i mean the working directary has to be sent to staging area
+ggit status-> is a command to check wheter it is staging statte or not and lot of things there where it is  what are the fikls added
