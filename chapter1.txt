@@ -18,3 +18,13 @@ here -m is very impoertnt this is the message is showing at everu save point go 
 to see what commit u done just type-> git log
 a peerticular hash code come out eith time aand author 
 that hash code for uniquely for perticular commit
+
+commit mens something has to changed and we are ok with that and we commiyt witrh a new verion as we re ohk with that 
+thats why we are sending it to stgaing area and for using thata staging area some files wh=chich we want nt to track
+then we dont send it to that version and a nw  version got  created by command git commit -m "mesaage type here"
+now ths message shown when we wtite commit log
+
+now if we just messupwith our cuurent file that is chapter3 hetr and we want to recover
+it back then we just need to write ------>git checkout filename ehich we want rooll back to last version
+version changed when we commit it 
+to check my changes and my last version just---->git diff filename
