@@ -28,3 +28,71 @@ now if we just messupwith our cuurent file that is chapter3 hetr and we want to 
 it back then we just need to write ------>git checkout filename ehich we want rooll back to last version
 version changed when we commit it 
 to check my changes and my last version just---->git diff filename
+
+gcgwcygwcgwcygwl	glu
+
+--------------------------------
+how to send local repostart to github
+
+how to remote your local repositry to fit repositary-->
+to do that i m going to use a command
+--> git remote add origin and the path which shows on guithub
+
+now remote is basically a conjuxtion for push pull in github and we shoud we cn say that
+in easy language we create vatriable of remote whch name origin by vconvention we use 
+that variable name a origin other wise we can take any
+
+now to push in git hub reposiary we use
+-----> git push -u origin master 
+master ia a branch ame of origin where we push and -u is a flag which links up my remote and local
+and master vranch is main branch for commiting your repositart
+
+when we commit some version then it will become the master brancjh and we send to local repository to oremote repository
+which m=is maintain by git hib in rdemote repositary and when we push in github then it goes all commit that is all chnages all version
+to remote repositarty as all are present in the  master  branch
+
+
+
+HOW TO DO NOT PUSH UP YOUR PROJECTS WITHOUT SENDING SECRETS FILE AN IN SECRET FILE USER PREFERSNCE UTILITY FILE API KEYS ANOTHER THINGS LIKE DS STORE FILE (HOW YOUR ICONS ARRANGED)
+DS STORE IS HODDEN FILE
+
+
+to undo forthe last step like if u add in stage so to undo from stage 
+cmd use---->git rm --cached -r .
+
+"." is usedfor  all files
+-r is a flag
+
+
+to checkout in your branch i mean to enter ur  branch
+
+--->git checkout name of the branch
+
+*.txt if we write in .gitignore file then it ignore all txt format file
+and we haveto write specifically which file ignore like if we want to ignore a dile like
+secret.txt then we have to write in the file .gitignore
+
+in gitignore file # is used for commnet
+
+cloning--
+----------------------------------------------
+CLONING
+
+to move from remote repositoty to local repositarty
+
+to clone we simply write
+
+---->git clone and path u copiedof that file from github
+
+==========================================================
+MERGING AND BRANCHING IN GITHUB
+
+to make branch in folder-->
+git branch branchname
+
+to show how many branch with name 
+--->git branch
+the * sign which branch are currently u r
+
+to checkout any branch or to switch any branch
+write ---->git chcekout name of the branch
