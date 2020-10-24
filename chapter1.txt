@@ -96,3 +96,35 @@ the * sign which branch are currently u r
 
 to checkout any branch or to switch any branch
 write ---->git chcekout name of the branch
+
+
+==============
+MERGING MASTER AND BRNACH
+
+
+---> git merge alienplot
+
+
+
+--------------
+so same inthe git hub account when u want cloning some project then u just forkin the other projject when u commit changes in it thn u just send a pull request andthat person wh is the 
+owner of  that project get merge requeztst and he/she is responsiblw for merging
+
+now i going to explain indetials
+
+===>
+so for this why e need a clone object to learn in both of the our person desktop that is on our command line and on githuvb
+its just because when we want some data then we can download it but its not a ggod a wayto clone it to get in our sysytem
+now when we want to clone in github which alwyas in industrty so to make it we fork
+when we fork it then we get all tyhe things it is same like cloning we just go into that account and we fork it and the projects come in my github account
+
+now for making new change e make branches so that without effecting main code we  can done all the things or any devlopment when we ficx it bug free then we merge with the main file and 
+pust in out github account but if we fiork some where and we want to merge in theat account our code (in industry it happesns) then we should make a pull request to thhat person
+tehre is a dfference between pull and push request in case of merging we always have pull requuset
+as in pull requset we dont have authority tpo cchanges in the actual account and in push requset we push it so we have autrhority to push iyt in like in github account
+we push it imyy local repository to github repository 
+but when qwe  forlk we send a pull equest to do changes and the admin will accept the pull request and pull your code and changes in his/her code
+
+
+there is master and branching property just make branches it will take all the copiesd file into it then pull the merger request into it and and merge as i have the authority to merge 
+as this is my sccount
