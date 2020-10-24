@@ -1,6 +1,20 @@
 hey i mam ritika.. i like to w=eat food
-ls -a--> to show thw hidd files
+###ls -a--> to show thw hidd files
+
 git init is iudes to intialize git in that folder
 there is a statgaing area where u see what files u want to for next step and what are npot
 i mean the working directary has to be sent to staging area
-ggit status-> is a command to check wheter it is staging statte or not and lot of things there where it is  what are the fikls added
+
+###git status-> is a command to check wheter it is staging statte or not and lot of things there where it is  what are the fikls added
+and untracked file also showing
+
+to add in staging area cmd->git add filename
+---> git add . --> to add everythig in staging of that directory we use that command
+
+now to go that file here chapter1 in version control we need to cmd->
+git commit -m "complete chapter one"
+here -m is very impoertnt this is the message is showing at everu save point go and serch on google swhat is a save point
+
+to see what commit u done just type-> git log
+a peerticular hash code come out eith time aand author 
+that hash code for uniquely for perticular commit
